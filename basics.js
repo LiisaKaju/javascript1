@@ -26,8 +26,8 @@ model = "Audi";
 // Type casting
 // Muudame number andmetüübi
 const castNumber = 123456;
-console.log(typeof(String(castNumber));
-console.log(Boolean(String(castNumber));
+console.log(typeof(String(castNumber)));
+console.log(Boolean(String(castNumber)));
 
 //Array => sümbol on []
 const characters = ["T", "P", "I", "C", "S", "V", "A", "J", "R"];
@@ -38,4 +38,3 @@ console.log(characters[4]);
 console.log(characters[3]);
 console.log(characters[8]);
 console.log(characters[2]);
-git comm
